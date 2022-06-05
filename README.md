@@ -6,7 +6,7 @@ Penjelasan masing-masing code:
 2) KNN Classifier
     * Review:https://youtu.be/9xkZHyLCfKc
     * Code:https://youtu.be/mNx_eqvR9Vc
-3) Visualisasi Dataset
+3) Dataset Visualization
     * Single Plot:https://youtu.be/3dFW5RwgkVQ
     * Multi Plot:https://youtu.be/nHrkYZJBp-M
 4) K-Means Clustering
